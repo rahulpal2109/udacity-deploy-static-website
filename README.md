@@ -9,3 +9,10 @@ I have renamed "Travel Blog" to "Rahul's Travel Blog" and have updated the backg
 Link to access: http://d22rljt8hfcztf.cloudfront.net/index.html
 
 Note: The above link might not be accessible any more. Sorry!
+
+<br>
+## Project Review:
+
+![Alt text](/Project/images/review.PNG "Project Review")
+
+<br>
