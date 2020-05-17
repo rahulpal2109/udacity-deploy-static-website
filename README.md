@@ -11,7 +11,7 @@ Link to access: http://d22rljt8hfcztf.cloudfront.net/index.html
 Note: The above link might not be accessible any more. Sorry!
 
 <br>
-## Project Review:
+<h2> Project Review: </h2>
 
 ![Alt text](/Project/images/review.PNG "Project Review")
 
